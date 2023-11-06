@@ -47,6 +47,7 @@
     // }
 
     type MyObj = Record<string, string>
+    // type MyObj = Record<string, unknown>
 
     const obj1: MyObj = {
         a: 'aa',
